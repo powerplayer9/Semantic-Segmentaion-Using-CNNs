@@ -18,7 +18,7 @@ After 10 Epoch:SGD
 mIoU on Test Dataset
 
 | Model  | mIoU | 
-| ------------- |
+| ------------- | ------------- |
 | FCN8  | 51.1  |
 | DUC-HDC  | 28.5  |
 | U-Net  | 23.4  |
