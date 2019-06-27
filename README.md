@@ -1,7 +1,7 @@
-# Semantic-Segmentaion-Using-CNNs
+## Semantic-Segmentaion-Using-CNNs
 Analyzing the performance of different types of convolutional filters for image segmentation purposes.
 
-## Experimental Setup
+### Experimental Setup
 Dataset: CityScapes
 
 Input Resolution: 512 x 256 x 3
@@ -14,7 +14,7 @@ First 10 Epoch:AdaGrad
 
 After 10 Epoch:SGD
 
-## Results
+### Results
 mIoU on Test Dataset
 
 | Model  | mIoU | 
